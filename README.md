@@ -1,3 +1,1 @@
-# flutter_food_app
-
-A new Flutter project.
+GoldBite food app UI built with Flutter

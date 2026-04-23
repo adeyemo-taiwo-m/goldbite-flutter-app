@@ -18,11 +18,6 @@ class SplashScreen extends StatelessWidget {
         
         ),
 
-             
-        
-
-        
-
         Padding(
           padding: const EdgeInsets.only(top: 150),
           child: Container(
@@ -41,14 +36,7 @@ class SplashScreen extends StatelessWidget {
           
             ),
         ),
-
         
-
-  
-        
-
-        
-
           Padding(
             padding: const EdgeInsets.only(top: 330,left: 70),
             child: Container(
@@ -65,7 +53,6 @@ class SplashScreen extends StatelessWidget {
             ),
           ),
           
-
           Padding(
             padding: const EdgeInsets.only(left: 50,top: 750),
             child: Container(
